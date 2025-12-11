@@ -1,0 +1,3 @@
+Previous ACK Number at Control Server: 1
+Current ACK Number at Control Server: 2.
+Error Message: None
